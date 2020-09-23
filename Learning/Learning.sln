@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Learning", "Learning\Learning.dtproj", "{F21F50F7-0A57-42D4-ACB8-5676E0F8E0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21F50F7-0A57-42D4-ACB8-5676E0F8E0DE}.Azure|Default.ActiveCfg = Azure
+		{F21F50F7-0A57-42D4-ACB8-5676E0F8E0DE}.Azure|Default.Build.0 = Azure
+		{F21F50F7-0A57-42D4-ACB8-5676E0F8E0DE}.Development|Default.ActiveCfg = Development
+		{F21F50F7-0A57-42D4-ACB8-5676E0F8E0DE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB3DA8A-434D-4C2D-AF54-A85FC2A9E729}
+	EndGlobalSection
+EndGlobal
